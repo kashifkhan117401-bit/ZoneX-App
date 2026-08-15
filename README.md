@@ -1,8 +1,4 @@
 
-<figure align="center">
-   <img src="zonex_landing_1786716005791.jpg" alt="ZoneX landing preview — AI product photography and model studio" width="1000" style="max-width:100%; height:auto; max-height:520px; object-fit:cover; border-radius:8px; box-shadow:0 10px 30px rgba(0,0,0,0.12);" />
-   <figcaption style="font-size:14px; color:#666; margin-top:8px;">🖼️ Hero preview — ZoneX landing (work in progress)</figcaption>
-</figure>
 
 # ✨ ZoneX — AI Product Photography & Model Studio 📸
 
