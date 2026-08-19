@@ -142,7 +142,7 @@ Contributions are welcome!
 
 <table>
 
-<tr><td>📧 <b>Email</b></td><td><a href="mailto:kashifkhan117401@gmail.com">kashifkhan117401@gmail.com</a></td></tr>
+<tr><td>📧 <b>Email</b></td><td><a href="mailtokashif.hafeez.dev@gmail.com">kashif.hafeez.dev@gmail.com</a></td></tr>
 <tr><td>🌐 <b>Portfolio</b></td><td><a href="https://kashifhafeez-portfolio1.vercel.app/">kashifhafeez-portfolio1.vercel.app</a></td></tr>
 <tr><td>🆔 <b>ORCID</b></td><td><a href="https://orcid.org/0009-0002-5604-3264">0009-0002-5604-3264</a></td></tr>
 <tr><td>💼 <b>LinkedIn</b></td><td><a href="https://linkedin.com/in/kashif-hafeez-545794330">kashif-hafeez</a></td></tr>
